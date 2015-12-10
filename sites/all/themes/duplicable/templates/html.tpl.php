@@ -63,7 +63,8 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
   <?php print $scripts; ?>
-
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5669a6f422964f2c" async="async"></script>
 </head>
 
 <body class="no-ms <?php if(drupal_is_front_page()): ?> home  <?php endif; ?> <?php print $classes; ?>" <?php print $attributes;?>>

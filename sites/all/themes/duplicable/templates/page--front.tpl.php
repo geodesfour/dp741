@@ -158,7 +158,7 @@
   </div> <!-- /#page-header -->
 </div>
 
-<div class="layout-main pt-lg-4x pt-sm-2x pb-lg-4x pb-sm-2x">
+<div id="layout-main" class="layout-main pt-lg-4x pt-sm-2x pb-lg-4x pb-sm-2x">
 
   <div class="container mb-lg-2x">
     <div class="box-white">

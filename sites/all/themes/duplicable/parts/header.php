@@ -50,6 +50,7 @@
           <img src="http://geoffrey-desfour.com/drupal7/sites/all/themes/duplicable/img/espace-citoyen.png" width="206" height="76" alt="">
           </a>
         </div>
+        <?php print render($page['header']); ?>
       </div>
 
     </div>

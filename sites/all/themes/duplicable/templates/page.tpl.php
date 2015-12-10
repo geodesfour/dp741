@@ -155,7 +155,7 @@
     <?php include_once DRUPAL_ROOT . '/sites/all/themes/duplicable/parts/menu.php'; ?>
   </div> <!-- /#page-header -->
 </div>
-<div class="layout-main">
+<div id="layout-main" class="layout-main">
   <div class="section-breadcrumb mb-lg-3x hidden-sm hidden-xs">
     <div class="container">
       <div class="breadcrumbs">
