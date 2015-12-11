@@ -419,3 +419,8 @@ body.admin-menu.navbar-is-fixed-top {
 #ui-datepicker-div {
     z-index: 999 !important;
 }
+/* Modules */
+.block-text-resize {
+    display: block;
+    clear:both;
+}

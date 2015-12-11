@@ -10,13 +10,13 @@
             <div class="col-md-6 col-xs-12 mb-sm-2x">
               <div class="section-contactus-newsletter">
                 <p>Inscrivez-vous à la lettre d'information pour être informé(e) en temps réel</p>
-                <a href="http://geoffrey-desfour.com/drupal7/newsletter/" class="btn btn-red">S'abonner à l'e-volution</a>
+                <a href="http://drupal7.dev/newsletter/" class="btn btn-red">S'abonner à l'e-volution</a>
               </div>
             </div>
             <div class="col-md-6 col-xs-12">
               <div class="section-contactus-contact">
                 <p>Vous avez une question&nbsp;? Besoin d'un renseignement&nbsp;? N'hésitez pas à nous contacter</p>
-                <a href="http://geoffrey-desfour.com/drupal7/nous-contacter/" class="btn btn-red">Nous contacter</a>
+                <a href="http://drupal7.dev/nous-contacter/" class="btn btn-red">Nous contacter</a>
               </div>
             </div>
           </div>
@@ -28,14 +28,14 @@
                 <a href="https://facebook.com/villedemitrymory" id="section-contactus-networks-facebook" target="_blank" class="section-contactus-networks-facebook">
                   <!-- <i class="fa fa-facebook"></i> -->
                   <!-- <p>Retrouvez-nous sur <strong>Facebook</strong></p> -->
-                  <img src="http://geoffrey-desfour.com/drupal7/sites/all/themes/duplicable/img/share-facebook.png" width="322" height="70" class="img-responsive" alt="Retrouvez-nous sur Facebook">
+                  <img src="http://drupal7.dev/sites/all/themes/duplicable/img/share-facebook.png" width="322" height="70" class="img-responsive" alt="Retrouvez-nous sur Facebook">
                 </a>
               </div>
               <div class="col-lg-12 col-sm-6 col-xs-12">
                 <a href="https://youtube.com/channel/UCWpkinUzBIP3jIwinVuQvdQ" id="section-contactus-networks-youtube" target="_blank" class="section-contactus-networks-youtube">
                   <!-- <i class="fa fa-youtube-play"></i> -->
                   <!-- <p>Suivez-nous sur <strong>Youtube</strong></p> -->
-                  <img src="http://geoffrey-desfour.com/drupal7/sites/all/themes/duplicable/img/share-youtube.png" width="322" height="70" class="img-responsive" alt="Suivez-nous sur Youtube">
+                  <img src="http://drupal7.dev/sites/all/themes/duplicable/img/share-youtube.png" width="322" height="70" class="img-responsive" alt="Suivez-nous sur Youtube">
                 </a>
               </div>
             </div>
@@ -51,7 +51,7 @@
           <div class="row">
             <div class="col-md-4 col-sm-3 mb-xs-2x">
               <div class="section-contactinfo-logo">
-                <img src="http://geoffrey-desfour.com/drupal7/sites/all/themes/duplicable/img/logo-footer.png" class="img-responsive" width="195" height="205" alt="">
+                <img src="http://drupal7.dev/sites/all/themes/duplicable/img/logo-footer.png" class="img-responsive" width="195" height="205" alt="">
               </div>
             </div>
             <div class="col-md-4 col-sm-5 col-xs-12 mb-xs-2x">

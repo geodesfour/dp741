@@ -47,7 +47,7 @@
         </div>
         <div class="citoyen-account hidden-xs">
           <a href="/drupal7/mon-compte-citoyen">
-          <img src="http://geoffrey-desfour.com/drupal7/sites/all/themes/duplicable/img/espace-citoyen.png" width="206" height="76" alt="">
+          <img src="http://drupal7.dev/sites/all/themes/duplicable/img/espace-citoyen.png" width="206" height="76" alt="">
           </a>
         </div>
         <?php print render($page['header']); ?>

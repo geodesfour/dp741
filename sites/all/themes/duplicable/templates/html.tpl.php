@@ -63,8 +63,7 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
   <?php print $scripts; ?>
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5669a6f422964f2c" async="async"></script>
+
 </head>
 
 <body class="no-ms <?php if(drupal_is_front_page()): ?> home  <?php endif; ?> <?php print $classes; ?>" <?php print $attributes;?>>
@@ -76,7 +75,7 @@
   <?php print $page; ?>
   <?php print $page_bottom; ?>
   <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-  <script src="http://geoffrey-desfour.com/drupal7/sites/all/themes/duplicable/js/bigmenu2.js"></script>
+  <script src="/sites/all/themes/duplicable/js/bigmenu2.js"></script>
 <div class="fm-overlay"></div>
 </body>
 </html>

@@ -234,15 +234,15 @@
         <div class="section-big-access">
             <div class="row">
               <div class="col-sm-6 col-xs-12 mb-xs-2x">
-                                                        <a href="http://geoffrey-desfour.com/drupal7/ma-mairie/les-documents-utiles/" class="big-access big-access-green">
+                                                        <a href="http://drupal7.dev/ma-mairie/les-documents-utiles/" class="big-access big-access-green">
                     <h3 class="big-access-title">Les documents utiles</h3>
-                    <img width="360" height="315" src="http://geoffrey-desfour.com/drupal7/sites/all/themes/duplicable/img/docutheque-360x315.jpg" class="img-responsive wp-post-image" alt="docutheque">                   </a>
+                    <img width="360" height="315" src="http://drupal7.dev/sites/all/themes/duplicable/img/docutheque-360x315.jpg" class="img-responsive wp-post-image" alt="docutheque">                   </a>
 
                                 </div>
               <div class="col-sm-6 col-xs-12">
-                                                        <a href="http://geoffrey-desfour.com/drupal7/ma-mairie/la-phototheque/" class="big-access big-access-purple">
+                                                        <a href="http://drupal7.dev/ma-mairie/la-phototheque/" class="big-access big-access-purple">
                     <h3 class="big-access-title">La photothèque</h3>
-                    <img width="360" height="315" src="http://geoffrey-desfour.com/drupal7/sites/all/themes/duplicable/img/Un-été-à-Mitry-Mory-48-360x315.jpg" class="img-responsive wp-post-image" alt="Un été à Mitry-Mory (48)">                   </a>
+                    <img width="360" height="315" src="http://drupal7.dev/sites/all/themes/duplicable/img/phototheque.jpg" class="img-responsive wp-post-image" alt="Un été à Mitry-Mory (48)">                   </a>
                                 </div>
             </div>
           </div><!-- /.section-websites -->
